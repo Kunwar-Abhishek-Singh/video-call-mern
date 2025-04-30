@@ -322,7 +322,7 @@
 
 import React, { useRef, useEffect, useState } from "react";
 
-const ws = new WebSocket("wss://your-app-url.onrender.com"); // Update with your actual deployed URL
+const ws = new WebSocket("wss://video-call-mern-w9x8.onrender.com/"); // Update with your actual deployed URL
 // const ws = new WebSocket("ws://localhost:5000");
 
 function App() {
